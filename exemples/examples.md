@@ -20,7 +20,7 @@ client.music.start(client, {
 });
 
 // Connect the bot with your Discord applications bot token.
-client.login("NTcwNTE4Mjg0ODk4Nzk1NTIw.XQLH3w.Xy_5gzU0GYDigaUqv0EQ2hNbZYw");
+client.login("");
 ```
 That example will run the bot with default settings (as seen in the readme file) and will respond to its commands. Now, let's add a few options to it:
 ```js
